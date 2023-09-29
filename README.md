@@ -16,6 +16,10 @@ Here are instructions on how to use this template:
 
 _Place documentation or links to documentation here._
 
+Figma design :
+
+[![Figma](https://img.shields.io/badge/figma-1DA1F2?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/POXgC8tnGoAj6JpAgmF6K1/Veeam-Community-Hackathon-2023-Sept-28?type=design&node-id=0-1&mode=design&t=J2thMDRmNJmTVwaR-0)
+
 ## ✍ Contributions
 
 We welcome contributions from the community! We encourage you to create [issues](https://github.com/VeeamCommunity/{repo-name}/issues/new/choose) for Bugs & Feature Requests and submit Pull Requests. For more detailed information, refer to our [Contributing Guide](CONTRIBUTING.md).
